@@ -5,7 +5,7 @@ import cv2
 
 tolerance = 90
 scan_range = 30
-target_color = (0, 255, 0)
+target_color = (0, 255, 0) # green #00FF00
 
 toggle = False
 
